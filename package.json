@@ -1,6 +1,6 @@
 {
-  "name": "npm-check",
-  "version": "6.0.1",
+  "name": "npm-check-bun",
+  "version": "1.0.0",
   "description": "Check for outdated, incorrect, and unused dependencies.",
   "main": "lib",
   "engines": {
