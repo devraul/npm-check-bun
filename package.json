@@ -1,6 +1,6 @@
 {
   "name": "npm-check-bun",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Check for outdated, incorrect, and unused dependencies.",
   "main": "lib",
   "engines": {
@@ -27,7 +27,7 @@
     }
   },
   "bin": {
-    "npm-check": "bin/cli.js"
+    "npm-check-check": "bin/cli.js"
   },
   "repository": {
     "type": "git",
